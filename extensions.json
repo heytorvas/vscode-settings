@@ -1,0 +1,28 @@
+{
+    "recommendations": [
+        // language
+        "ms-python.python",
+        "ms-python.debugpy",
+
+        // dev containers
+        "ms-azuretools.vscode-docker",
+        "ms-vscode.remote-explorer",
+        "ms-vscode-remote.remote-containers",
+        "ms-vscode-remote.remote-ssh",
+
+        // productivity
+        "ritwickdey.LiveServer",
+        "yzhang.markdown-all-in-one",
+        "streetsidesoftware.code-spell-checker",
+        "rangav.vscode-thunder-client",
+
+        // style
+        "antfu.theme-vitesse",
+        "vscode-icons-team.vscode-icons",
+        "antfu.icons-carbon",
+
+        // linter
+        "charliermarsh.ruff",
+        "ms-python.isort"
+    ]
+}
